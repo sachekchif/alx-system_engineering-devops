@@ -1,1 +1,1 @@
-adding execute to all subdirectory
+creating directories

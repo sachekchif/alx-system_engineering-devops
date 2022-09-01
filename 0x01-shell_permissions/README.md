@@ -1,1 +1,1 @@
-changing ownership both groups
+changing ownership from two users

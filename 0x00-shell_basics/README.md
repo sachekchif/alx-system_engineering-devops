@@ -1,1 +1,1 @@
-creating a script to delete all files
+creating directories

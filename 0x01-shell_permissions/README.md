@@ -1,1 +1,1 @@
-sets mode
+adding execute to all subdirectory

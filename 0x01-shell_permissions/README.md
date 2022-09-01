@@ -1,1 +1,1 @@
-mode setter
+sets mode

@@ -1,1 +1,1 @@
-last line of a file
+displaying 10 lines

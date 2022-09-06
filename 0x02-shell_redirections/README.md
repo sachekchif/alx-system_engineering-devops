@@ -1,1 +1,1 @@
-removing characters
+reversing input

@@ -1,1 +1,1 @@
-listing variables
+listing local variables

@@ -1,1 +1,1 @@
-converting base
+printing possible combinations

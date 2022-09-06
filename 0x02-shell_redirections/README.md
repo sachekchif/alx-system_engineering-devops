@@ -1,1 +1,1 @@
-diplaying lines
+displaying lines

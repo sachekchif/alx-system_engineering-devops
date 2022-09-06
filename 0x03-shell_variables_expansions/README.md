@@ -1,1 +1,1 @@
-printing results
+displaying results

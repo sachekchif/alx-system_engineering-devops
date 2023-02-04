@@ -1,1 +1,1 @@
-0x04-loops_conditions_and_parsing
+Solution to tasks on Loops, conditions and parsing
